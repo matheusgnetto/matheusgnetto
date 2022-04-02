@@ -1,14 +1,16 @@
-# Olá, eu sou o Matheus 👋
+# **Olá, eu sou o Matheus** 👋
 
 ##    Quem sou eu?
-### * 💻 Profissional de TI.
-### * 🔎 Estudante.
-### * 📚 Análise e Desenvolvimento de Sistemas.
+
+ * 💻 Profissional de TI.
+ * 🔎 Estudante.
+ * 📚 Análise e Desenvolvimento de Sistemas.
 
 ##    Habilidades 
-### * 💡 Lógica de Programação.
-### * 🐍 Python.
-### * 🗄 SQL.
+
+ * 💡 Lógica de Programação.
+ * 🐍 Python.
+ * 🗄 SQL.
 
 <!---
 matheusgnetto/matheusgnetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
