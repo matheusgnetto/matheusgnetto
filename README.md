@@ -1,16 +1,17 @@
 # **Olá, eu sou o Matheus** 👋
 
-##    Quem sou eu?
+## Quem sou eu?
 
  * 💻 Profissional de TI.
  * 🔎 Estudante.
- * 📚 Análise e Desenvolvimento de Sistemas.
+ * 📚 Análise e Desenvolvimento de Sistemas - UNIASSELVI.
 
-##    Habilidades 
+## Habilidades 
 
  * 💡 Lógica de Programação.
  * 🐍 Python.
  * 🗄 SQL.
+
 
 <!---
 matheusgnetto/matheusgnetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
