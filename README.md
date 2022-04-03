@@ -7,7 +7,8 @@
  * 📚 Análise e Desenvolvimento de Sistemas - UNIASSELVI.
 
 ## Habilidades 
-
+ * ➿ Redes de Computadores
+ * 🔧 Manutenção de Hardware/Software
  * 💡 Lógica de Programação.
  * 🐍 Python.
  * 🗄 SQL.
