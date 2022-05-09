@@ -3,7 +3,7 @@
 ## Quem sou eu?
 
  * 💻 Profissional de TI.
- * 🔎 Estudante.
+ * 🔎 Estudante na Área de Desenvolvimento.
  * 📚 Análise e Desenvolvimento de Sistemas - UNIASSELVI.
 
 ## Habilidades 
