@@ -11,7 +11,8 @@
  * 🔧 Manutenção de Hardware/Software
  * 💡 Lógica de Programação.
  * 🐍 Python.
- * 🗄 SQL.
+ * 📱 API.
+ * 🎲 Banco de Dados.
 
 
 <!---
