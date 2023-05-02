@@ -2,9 +2,9 @@
 
 ## Quem sou eu?
 
- * 💻 Profissional de TI.
+ * 💻 Analista de TI.
  * 🔎 Estudante na Área de Desenvolvimento.
- * 📚 Análise e Desenvolvimento de Sistemas - UNIASSELVI.
+ * 📚 Cursando Análise e Desenvolvimento de Sistemas - UNIASSELVI.
 
 ## Habilidades 
  * ➿ Redes de Computadores
