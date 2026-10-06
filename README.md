@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello, I'm Matheus, a data engineer from Esteio, Brazil. I've been actively working in the field since October 2023. Currently, I'm in the final year of my college degree in Systems Analysis and Development, and I have a strong passion for self-learning.
+Hello, I'm Matheus, a data engineer from Rio Grande do Sul, Brazil. I've been actively working in the field since October 2023. Currently, I hold a degree in Systems Analysis and Development, and I have a strong passion for self-learning.
 
 ## Technologies I Love
 
@@ -24,18 +24,8 @@ Tech Stack
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgnetto&layout=compact&theme=radical)](https://github.com/matheusgnetto/github-readme-stats)
 
-## Activities
-
-When I'm not working on exciting data engineering projects, you can find me:
-
-- Exploring new tech trends and industry best practices.
-- Sharing my knowledge with the community.
-- Studying new technologies.
-
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matheusgomesnetto/) and let's talk about data engineering, technology, or any exciting ideas!
-
-Let's innovate together! 🚀
 
 <!---
 matheusgnetto/matheusgnetto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
