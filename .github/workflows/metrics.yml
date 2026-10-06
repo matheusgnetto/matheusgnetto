@@ -1,7 +1,5 @@
 name: Metrics
 
-# Gera os cards do README usando um PAT, para incluir commits/PRs
-# privados e de organizações (o que os cards públicos não enxergam).
 on:
   schedule:
     - cron: "0 */6 * * *" # a cada 6h
@@ -23,15 +21,10 @@ jobs:
           user: matheusgnetto
           template: classic
           config_timezone: America/Sao_Paulo
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           repositories_affiliations: owner, collaborator, organization_member
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
 
       - name: Linguagens (inclui repos privados e da org)
         uses: lowlighter/metrics@latest
