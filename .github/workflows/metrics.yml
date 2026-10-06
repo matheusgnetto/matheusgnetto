@@ -1,0 +1,51 @@
+name: Metrics
+
+# Gera os cards do README usando um PAT, para incluir commits/PRs
+# privados e de organizações (o que os cards públicos não enxergam).
+on:
+  schedule:
+    - cron: "0 */6 * * *" # a cada 6h
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Overview (contribuições, PRs, calendário)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          user: matheusgnetto
+          template: classic
+          config_timezone: America/Sao_Paulo
+          base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner, collaborator, organization_member
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+
+      - name: Linguagens (inclui repos privados e da org)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          user: matheusgnetto
+          template: classic
+          config_timezone: America/Sao_Paulo
+          base: ""
+          repositories_affiliations: owner, collaborator, organization_member
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used
