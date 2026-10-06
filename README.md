@@ -1,7 +1,7 @@
 # Hi, I'm Matheus Netto 👋
 
 
-[![Matheus Netto`s` GitHub stats](https://github-stats-extended.vercel.app/api?username=matheusgnetto)](https://github.com/stats-organization/github-stats-extended)
+[![Matheus Netto`s` GitHub stats](https://github-stats-extended.vercel.app/api?username=matheusgnetto)](https://github.com/stats-organization/github-stats-extended)(https://github-stats-extended.vercel.app/api?username=matheusgnetto&theme=radical)
 
 ## About Me
 
